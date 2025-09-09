@@ -470,7 +470,7 @@ h1, h2, h3, h4 {
       <div class="text-center">
         <!-- Profile Image -->
         <div class="profile-professional w-20 h-20 mx-auto mb-4">
-          <img src="https://i.pinimg.com/736x/2f/53/58/2f535867ec2ea063d07e3c4148d18cf8.jpg" alt="Juan Manuel" class="w-full h-full object-cover rounded-full">
+          <img src="https://i.pinimg.com/736x/2f/53/58/2f535867ec2ea063d07e3c4148d18cf8.jpg" alt="James Michael" class="w-full h-full object-cover rounded-full">
         </div>
         <h2 class="text-xl font-bold text-gray-900">James Michael<span class="inline-flex items-center">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="w-5 h-5">
@@ -1089,5 +1089,3 @@ function handleSubmit(e){
 
 </body>
 </html>
-
-
